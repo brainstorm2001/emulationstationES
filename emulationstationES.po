@@ -167,7 +167,7 @@ msgid "This collection is empty."
 msgstr "Colección vacía."
 
 msgid "None"
-msgstr "Cualquier"
+msgstr "Ningún"
 
 msgid "Various"
 msgstr "Varios"
@@ -415,7 +415,7 @@ msgid ""
 "\n"
 "More options in the \"UI Settings\" > \"Video Screensaver\" menu."
 msgstr ""
-"El protector de pantalla \"Vídeos al azar\" muestra vídeos de tu lista de "
+"El protector de pantalla \"Vídeos aleatorios\" muestra vídeos de tu lista de "
 "juegos.\n"
 "\n"
 "Si no tiene vídeos, o si en varios intentos consecutivos los juegos "
@@ -697,7 +697,7 @@ msgstr ""
 "¿ESTÁ SEGURO?"
 
 msgid "DELETE"
-msgstr "DELETAR"
+msgstr "BORRAR"
 
 msgid "SAVE CHANGES?"
 msgstr "SALVAR CAMBIOS?"
@@ -739,10 +739,10 @@ msgid "CUSTOM IMAGE FILTER"
 msgstr "FILTRO DE IMÁGENES PERSONALIZADAS"
 
 msgid "FILTER GAMELIST BY"
-msgstr "FILTRAR LISTA DE JOGOS POR"
+msgstr "FILTRAR JUEGO LISTA POR"
 
 msgid "RESET ALL FILTERS"
-msgstr "RESETAR TODOS LOS FILTROS"
+msgstr "RESTABLECER TODOS LOS FILTROS"
 
 msgid "FALSE"
 msgstr "FALSO"
@@ -754,16 +754,16 @@ msgid "SWAP VIDEO AFTER (SECS)"
 msgstr "CAMBIAR VÍDEO DESPUÉS (S)"
 
 msgid "USE OMX PLAYER FOR SCREENSAVER"
-msgstr "USAR OMX PLAYER PARA PROTECTOR DE PANTALLA"
+msgstr "UTILIZA OMX PLAYER PARA EL PROTECTOR DE PANTALLA"
 
 msgid "SHOW GAME INFO"
 msgstr "MOSTRAR INFORMACIÓN DEL JUEGO"
 
 msgid "always"
-msgstr "SEMPRE"
+msgstr "SIEMPRE"
 
 msgid "start & end"
-msgstr "COMEÇO & FIM"
+msgstr "COMIENZO Y FINAL"
 
 msgid "never"
 msgstr "NUNCA"
@@ -843,10 +843,10 @@ msgid "subtitle text"
 msgstr "leyenda texto"
 
 msgid "STOP"
-msgstr "PARAR"
+msgstr "DETENER"
 
 msgid "STOP (PROGRESS SAVED)"
-msgstr "PARAR (PROGRESO SALVO)"
+msgstr "DETENER (PROGRESO SALVO)"
 
 msgid "GAME {1} OF {2}"
 msgstr "JUEGO {1} DE {2}"
@@ -857,7 +857,7 @@ msgstr "NINGÚN JUEGO SCRAPED."
 msgid "{1} GAME SUCCESSFULLY SCRAPED!"
 msgid_plural "{1} GAMES SUCCESSFULLY SCRAPED!"
 msgstr[0] "{1} JUEGO SCRAPED CON ÉXITO!"
-msgstr[1] "{1} ¡JUEGOS SCRAPEDOS CON ÉXITO!"
+msgstr[1] "{1} ¡JUEGOS SCRAPED CON ÉXITO!"
 
 msgid "{1} GAME SKIPPED."
 msgid_plural "{1} GAMES SKIPPED."
@@ -1013,7 +1013,7 @@ msgstr "ANALÓGICO IZQUIERDO, ABAJO"
 
 msgctxt "button"
 msgid "LEFT ANALOG LEFT"
-msgstr "ANALÓGICO IZQUIERDO, IZQUIERDA"
+msgstr "ANALÓGICO IZQUIERDO, IZQUIERDO"
 
 msgctxt "button"
 msgid "LEFT ANALOG RIGHT"
@@ -1040,7 +1040,7 @@ msgid "HOTKEY ENABLE"
 msgstr "HOTKEY"
 
 msgid "CONFIGURING"
-msgstr "CONFIGURAR"
+msgstr "CONFIGURANDO"
 
 msgid "KEYBOARD"
 msgstr "TECLADO"
