@@ -53,10 +53,10 @@ msgid "ENTER PATH TO THUMBNAIL"
 msgstr "CAMINO DE LA MINIATURA"
 
 msgid "RATING"
-msgstr "EVALUACIÓN"
+msgstr "CLASIFICACIÓN"
 
 msgid "ENTER RATING"
-msgstr "DIGITAR EVALUACIÓN"
+msgstr "DIGITAR CLASIFICACIÓN"
 
 msgid "RELEASE DATE"
 msgstr "FECHA DE LANZAMIENTO"
@@ -218,10 +218,10 @@ msgid "FILENAME, DESCENDING"
 msgstr "NOMBRE ↓"
 
 msgid "RATING, ASCENDING"
-msgstr "EVALUACIÓN ↑"
+msgstr "CLASIFICACIÓN ↑"
 
 msgid "RATING, DESCENDING"
-msgstr "EVALUACIÓN ↓"
+msgstr "CLASIFICACIÓN ↓"
 
 msgid "TIMES PLAYED, ASCENDING"
 msgstr "TIEMPO JUGADO ↑"
@@ -275,7 +275,7 @@ msgid "CANCEL"
 msgstr "CANCELAR"
 
 msgid "RATING:"
-msgstr "EVALUACIÓN:"
+msgstr "CLASIFICACIÓN:"
 
 msgid "RELEASED:"
 msgstr "LANZAMIENTO:"
@@ -464,7 +464,7 @@ msgid "SCRAPE FROM"
 msgstr "SCRAPE DE"
 
 msgid "SCRAPE RATINGS"
-msgstr "SCRAPE EVALUACIÓN"
+msgstr "SCRAPE CLASIFICACIÓN"
 
 msgid "SCRAPE NOW"
 msgstr "SCRAPE AHORA"
