@@ -1,5 +1,5 @@
 # emulationstationES
 
-Tradução para Espanhol do menu EmulationStation para RetroPie
+Traducción para español del menú EmulationStation del RetroPie
 
 EmulationStation RetroPie menu Spanish translation
