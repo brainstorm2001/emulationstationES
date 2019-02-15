@@ -1,4 +1,4 @@
-# emulationstationES
+
 
 Traducción para español del menú EmulationStation del RetroPie
 
