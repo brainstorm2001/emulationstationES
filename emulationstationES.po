@@ -11,7 +11,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "NAME"
-msgstr "NOMBE"
+msgstr "NOMBRE"
 
 msgid "ENTER GAME NAME"
 msgstr "NOMBRE DEL JUEGO"
